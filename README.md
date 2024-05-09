@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Supritam!
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Frontend and Backend Development
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me https://linktr.ee/supritam_07...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+
 
 <!---
 Supritam-005/Supritam-005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
