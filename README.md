@@ -8,7 +8,7 @@
 
 💻 Tech Stack: Java | Python | Node.js | React.js | Django | Spring Boot | PostgreSQL | MongoDB | AWS | Docker
 
-📫 Reach Me: linktr.ee/supritam_07
+
 
 😄 Pronouns: he/him
 
