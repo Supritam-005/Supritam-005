@@ -1,13 +1,22 @@
-- 👋 Hi, I’m Supritam!
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Frontend and Backend Development
-  
-- 📫 How to reach me https://linktr.ee/supritam_07...
-- 😄 Pronouns: he/him
+👋 Hi, I'm Supritam Mukhopadhyay
+
+🚀 Full-Stack Developer | ☁️ Cloud Computing Enthusiast | 💡 Passionate about building scalable and impactful web solutions
+
+👀 Interests: Cloud Computing, Backend Architecture, and DevOps
+
+🌱 Currently Learning: Cloud-Native Development & Microservices
+
+💻 Tech Stack: Java | Python | Node.js | React.js | Django | Spring Boot | PostgreSQL | MongoDB | AWS | Docker
+
+📫 Reach Me: linktr.ee/supritam_07
+
+😄 Pronouns: he/him
+
+“Code. Build. Deploy. Repeat.” — Turning ideas into reliable, production-ready solutions.
 
 
 <h1 align="center">Hi 👋, I'm Supritam Mukhopadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 <img align="right" alt="coding" width"400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supritam-005&label=Profile%20views&color=0e75b6&style=flat" alt="supritam-005" /> </p>
