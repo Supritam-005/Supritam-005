@@ -1,4 +1,4 @@
-👋 Hi, I'm Supritam Mukhopadhyay
+👋 Hi, I'm Supritam Mukherjee
 
 🚀 Full-Stack Developer | ☁️ Cloud Computing Enthusiast | 💡 Passionate about building scalable and impactful web solutions
 
