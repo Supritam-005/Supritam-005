@@ -4,8 +4,6 @@
 
 👀 Interests: Cloud Computing, Backend Architecture, and DevOps
 
-🌱 Currently Learning: Cloud-Native Development & Microservices
-
 💻 Tech Stack: Java | Python | Node.js | React.js | Django | Spring Boot | PostgreSQL | MongoDB | AWS | Docker
 
 
