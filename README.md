@@ -30,22 +30,19 @@ mission: Build intelligent scalable systems 🚀
 
 ---
 
-## 🌐 CONNECT HUB
+## ## 🌐 CONNECT HUB
 
 <p align="center">
   <a href="https://linkedin.com/in/supritam-mukherjee">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img height="60" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_.supritam._">
-    <img src="https://img.shields.io/badge/Instagram-6A00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/@supritammukherjee6346">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/supritammukherj1">
-    <img src="https://img.shields.io/badge/HackerRank-00FF88?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+    <img height="60" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
+
+
 
 ---
 
