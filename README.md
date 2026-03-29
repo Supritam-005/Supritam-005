@@ -1,91 +1,149 @@
-<h1 align="center">⚡ Hey there, I'm Supritam Mukherjee 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Supritam.exe...;Full+Stack+Developer+⚡;AI+Enthusiast+🧠;Building+Futuristic+Systems+🚀" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Backend+Specialist;Building+Cool+Stuff+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=140&section=header"/>
 </p>
 
 ---
 
-## 🌌 About Me
-💻 Developer who builds **scalable systems & aesthetic UIs**  
-🧠 Interested in **AI, Backend Systems & Real-time Apps**  
-🚀 Currently working on **Freelancer Platform + AI Projects**  
-⚡ Love turning ideas into **production-ready code**
+## 🧠 SYSTEM.LOG
+
+```bash
+> Booting Profile...
+> Loading Skills ██████████████ 100%
+> Connecting to GitHub...
+> Status: ONLINE ✅
+```
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ PROFILE.exe
+
+```yaml
+Name: Supritam Mukherjee
+Role: Full Stack Developer
+Focus: Backend | AI | Scalable Systems
+Tech Stack: MERN | Django | Spring Boot | FastAPI
+Status: Building • Learning • Shipping 🚀
+```
+
+---
+
+## 🌐 CONNECT()
+
 <p align="center">
-<a href="https://linkedin.com/in/supritam mukherjee" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/_.supritam._" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.youtube.com/c/@supritammukherjee6346" target="blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="40" />
-</a>
-<a href="https://www.hackerrank.com/supritammukherj1" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
-</a>
+  <a href="https://linkedin.com/in/supritam-mukherjee">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_.supritam._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/c/@supritammukherjee6346">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/supritammukherj1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack (Floating Icons ⚡)
+## ⚙️ TECH STACK ⚡
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,cpp,c,cs,php,ruby,mongodb,mysql,postgres,aws,firebase,django,nginx,bootstrap,tailwind,unity&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,cpp,c,cs,php,ruby,mongodb,mysql,postgres,aws,firebase,django,nginx,bootstrap,tailwind,unity&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live 🚀)
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=supritam-005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritam-005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supritam-005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritam-005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=supritam-005&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 🧠 Currently Learning
-- 🧬 AI + NLP Systems  
-- ⚡ WebSockets & Real-time Systems  
-- ☁️ Cloud Architecture (AWS)
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supritam-005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=supritam-005&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🧩 Fun Dev Quote
+## 🔥 CONTRIBUTION GRAPH
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supritam-005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-## 🐍 Snake Eating Contributions (Animation 🐍)
+## 🐍 SNAKE ANIMATION
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🚀 Dev Vibe
+## 🧬 AI MODULE
+
+```python
+class SupritamAI:
+    def __init__(self):
+        self.role = "Developer"
+        self.skills = ["Backend", "AI", "Web"]
+        self.mode = "Ultra 🚀"
+
+    def execute(self):
+        return "Building the future..."
+```
+
+---
+
+## 🎯 CURRENT MISSION
+
+* 🚀 Build AI-powered applications
+* ⚡ Master backend & system design
+* 🧠 Create JARVIS-like assistant
+* 🌐 Scale real-world platforms
+
+---
+
+## 🛰️ TERMINAL MODE
+
+```bash
+> sudo life --mode=developer
+
+while(true){
+    code();
+    debug();
+    deploy();
+    repeat();
+}
+```
+
+---
+
+## 👁️ VISITOR COUNTER
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=supritam-005&label=Profile+Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+## 💬 DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌌 HOLOGRAM FOOTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=140&section=footer"/>
 </p>
