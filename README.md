@@ -56,7 +56,7 @@ Status: Building • Learning • Shipping 🚀
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supritam-005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supritam-005&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritam-005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 </p>
 
