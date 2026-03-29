@@ -33,11 +33,11 @@ mission: Build intelligent scalable systems 🚀
 ## ## 🌐 CONNECT HUB
 
 <p align="center">
-  <a href="https://linkedin.com/in/supritam-mukherjee">
+  <a href="https://www.linkedin.com/in/supritam-mukherjee-94922028b/">
     <img height="60" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_.supritam._">
+  <a href="https://www.instagram.com/_.supritam._/">
     <img height="60" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
