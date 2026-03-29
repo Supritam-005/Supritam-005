@@ -40,12 +40,7 @@ Status: Building • Learning • Shipping 🚀
   <a href="https://www.instagram.com/_.supritam._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/@supritammukherjee6346">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/supritammukherj1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
