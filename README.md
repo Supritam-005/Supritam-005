@@ -40,6 +40,14 @@ mission: Build intelligent scalable systems 🚀
   <a href="https://www.instagram.com/_.supritam._/">
     <img height="60" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
+
+ 
+  <a href="https://twitter.com/https://x.com/Supritam_">
+    <img height="60" src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+
+
+
 </p>
 
 
