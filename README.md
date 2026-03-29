@@ -52,15 +52,14 @@ Status: Building • Learning • Shipping 🚀
 </p>
 
 ---
-##📊 GITHUB ANALYTICS 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supritam-005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritam-005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
+## 🌌 ACTIVITY MATRIX
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=supritam-005&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supritam-005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
+---
+
 ## 🔥 CONTRIBUTION GRAPH
 
 <p align="center">
