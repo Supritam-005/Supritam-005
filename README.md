@@ -34,7 +34,7 @@ Status: Building • Learning • Shipping 🚀
 ## 🌐 CONNECT()
 
 <p align="center">
-  <a href="https://linkedin.com/in/supritam-mukherjee">
+  <a href="https://www.linkedin.com/in/supritam-mukherjee-94922028b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_.supritam._">
